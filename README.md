@@ -42,25 +42,30 @@ Communication · Interactive Experiences · AI Workflows
 
 ## AI Skills｜把工作方法做成工具
 
-这些仓库分享的是可以继续使用的方法与脚本。先看项目说明里的效果和示例，再按各自的环境要求安装。
+### 内容与合作
 
-### [我能为你做什么 · 营销共创](https://github.com/Xu-125/marketing-co-creation-match)
+**[我能为你做什么 · 营销共创](https://github.com/Xu-125/marketing-co-creation-match)**  
+结合自己的资源与对方需求，找到具体的合作切入点。附安装说明与虚构场景示例。
 
-对接一个人或客户之前，结合自己能协调的资源与对方正在做的事，找到一个具体的合作切入点。提供通用 Skill、安装说明和虚构场景示例。
+**[作品合集搭建与维护](https://github.com/Xu-125/portfolio-collection-skill)**  
+把分散链接组织成可搜索、可持续更新的合集，核对封面与来源，合并重复作品。它提供 Agent 工作流，不自带网站服务。
 
-### [作品合集搭建与维护](https://github.com/Xu-125/portfolio-collection-skill)
+### 工作与职业
 
-把分散的链接和素材组织成有真实封面、能搜索、能继续更新的合集。重点是来源核对、去重和维护，不是一个开箱即用的网站服务。
+**[群聊整理器](https://github.com/Xu-125/chat-orgnizer)**  
+按自己的发言、被 @ 和群活跃情况梳理待关注事项。提供本地脚本，不自动退群。
 
-### [群聊整理器](https://github.com/Xu-125/chat-orgnizer)
-
-按自己的发言、被 @ 和群活跃情况，梳理需要推进、响应、关注或复核的群聊。提供本地脚本和样例；分类是辅助判断，不会自动退群。
+**[职业资产与简历系统](https://github.com/Xu-125/resume)**  
+把每日工作记录沉淀为经历与成果库，再按不同岗位要求整理简历。只使用真实经历，缺少指标时保留待补证据。
 
 <details>
-<summary><strong>还有一个互动实验：Prompt 段位测试</strong></summary>
+<summary><strong>个人探索与互动实验</strong></summary>
 
-[查看项目源码](https://github.com/Xu-125/ai-predy-game)  
-把 Prompt 写作做成一次互动测试，包含提交、评分与排行榜。它是具体活动里的互动项目，复制代码不等于复制活动后台；复用前需要配置自己的服务与权限。
+**[Deep Companion · 自我探索对话](https://github.com/Xu-125/deepcompanion)**  
+一种强调具体理解、回应节奏和用户边界的对话方式。当前版本为个人定制，不是通用心理诊断工具。
+
+**[Prompt 段位测试](https://github.com/Xu-125/ai-predy-game)**  
+把 Prompt 写作做成互动测试，包含提交、评分与排行榜。复用前需配置自己的服务与权限。
 
 </details>
 
