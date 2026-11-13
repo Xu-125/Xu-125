@@ -5,7 +5,7 @@ Communication · Interactive Experiences · AI Workflows
 
 我关心怎样把复杂的事讲清楚，也喜欢把想法做成能看、能用的作品。这里收录我的内容作品、独立互动项目，以及从实际工作中整理出来的 AI Skills。
 
-**[浏览完整作品集 →](https://xu-125.github.io/portfolio/)** · [体验 Odyssey](https://xu-125.github.io/odyssey-guide/) · [查看开源 Skills](#skills)
+**[浏览完整作品集 →](https://xu-125.github.io/portfolio/)** · [体验 Odyssey](https://xu-125.github.io/odyssey-guide/) · [查看开源 Skills](#ai-skills把工作方法做成工具)
 
 ## 代表作品
 
@@ -39,8 +39,6 @@ Communication · Interactive Experiences · AI Workflows
 </td>
 </tr>
 </table>
-
-<a name="skills"></a>
 
 ## AI Skills｜把工作方法做成工具
 
